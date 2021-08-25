@@ -1,2 +1,2 @@
 # Zet
-repo for Zet files
+This is the repo for Zet files
